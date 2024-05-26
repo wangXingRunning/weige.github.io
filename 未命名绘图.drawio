@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T03:35:27.102Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="YyQTeayUcv_Lp6FyCd3G" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T03:39:11.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="9Wap4S8haBgTGCzw6erd" version="24.2.5" type="github">
   <diagram name="第 1 页" id="WDAG6_UW9YXQtkm1U2-L">
     <mxGraphModel dx="806" dy="427" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -686,9 +686,6 @@
         <mxCell id="ZvIFP5IPXFubQ02iMavd-276" value="" style="whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="858.13" y="460" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZvIFP5IPXFubQ02iMavd-277" value="" style="whiteSpace=wrap;html=1;aspect=fixed;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1318.13" y="460" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="ZvIFP5IPXFubQ02iMavd-278" value="&amp;nbsp;D1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];rounded=0;hachureGap=4;strokeColor=default;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1004.63" y="366" width="100" height="30" as="geometry" />
         </mxCell>
@@ -696,7 +693,7 @@
           <mxGeometry x="1037.63" y="366" width="68.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZvIFP5IPXFubQ02iMavd-280" value="订货报表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1243.13" y="470" width="60" height="30" as="geometry" />
+          <mxGeometry x="1296" y="327" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZvIFP5IPXFubQ02iMavd-281" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -704,16 +701,8 @@
             <mxPoint x="1054.63" y="552" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZvIFP5IPXFubQ02iMavd-282" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" target="ZvIFP5IPXFubQ02iMavd-277">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1227.13" y="504.75" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZvIFP5IPXFubQ02iMavd-283" value="教师" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="868.13" y="485" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZvIFP5IPXFubQ02iMavd-284" value="采购员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1328.13" y="485" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZvIFP5IPXFubQ02iMavd-285" value="&amp;nbsp;D2" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];rounded=0;hachureGap=4;strokeColor=default;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1065.13" y="616" width="100" height="30" as="geometry" />
@@ -723,13 +712,13 @@
             <mxPoint x="1196.13" y="551" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZvIFP5IPXFubQ02iMavd-287" value="课程表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZvIFP5IPXFubQ02iMavd-287" value="教学计划" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1099.13" y="616" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZvIFP5IPXFubQ02iMavd-288" value="授课计划" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="956" y="470" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZvIFP5IPXFubQ02iMavd-289" value="课程信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZvIFP5IPXFubQ02iMavd-289" value="教学计划" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1194.13" y="579" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZvIFP5IPXFubQ02iMavd-290" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -750,17 +739,44 @@
         <mxCell id="ZvIFP5IPXFubQ02iMavd-295" value="执行授课计划" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1023.6300000000001" y="509" width="79.87" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="ZvIFP5IPXFubQ02iMavd-296" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZvIFP5IPXFubQ02iMavd-296" value="生成课程信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160.26" y="452" width="70.5" height="96" as="geometry" />
         </mxCell>
         <mxCell id="ZvIFP5IPXFubQ02iMavd-297" value="" style="line;strokeWidth=2;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1159.51" y="473" width="69.25" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="ZvIFP5IPXFubQ02iMavd-304" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZvIFP5IPXFubQ02iMavd-298" target="ZvIFP5IPXFubQ02iMavd-302">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZvIFP5IPXFubQ02iMavd-298" value="2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1168.26" y="452" width="57.5" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="ZvIFP5IPXFubQ02iMavd-299" value="产生报表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1167.13" y="495" width="60" height="30" as="geometry" />
+        <mxCell id="ZvIFP5IPXFubQ02iMavd-300" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1487" y="514.5" as="sourcePoint" />
+            <mxPoint x="1487" y="514.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZvIFP5IPXFubQ02iMavd-302" value="&amp;nbsp;D3" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];rounded=0;hachureGap=4;strokeColor=default;verticalAlign=middle;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1258" y="389" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvIFP5IPXFubQ02iMavd-308" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZvIFP5IPXFubQ02iMavd-303" target="ZvIFP5IPXFubQ02iMavd-305">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvIFP5IPXFubQ02iMavd-303" value="课程表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1291" y="389" width="68.37" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvIFP5IPXFubQ02iMavd-305" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1379.75" y="462" width="70.5" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvIFP5IPXFubQ02iMavd-306" value="" style="line;strokeWidth=2;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1379" y="483" width="69.25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvIFP5IPXFubQ02iMavd-307" value="2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1387.75" y="462" width="57.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvIFP5IPXFubQ02iMavd-309" value="上课" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=16;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="460" width="50" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
